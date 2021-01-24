@@ -3,7 +3,7 @@ based on the [laravel5](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/l
 This plugin adds some aliases for common [Laravel](https://laravel.com/docs) commands.
 
 To use it, follow the instruction below:
-- clone this repo into your `.oh-my-zsh/custom/plugins` directory
+- clone this repo into your `~/.oh-my-zsh/custom/plugins` directory
 ```bash
 cd ~/.oh-my-zsh/custom/plugins
 git clone git@github.com:rsthegeek/oh-my-zsh-laravelx.git laravelX
