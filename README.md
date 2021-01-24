@@ -1,8 +1,14 @@
 # Laravel X plugin for Oh My (fuc\*ing) Zsh
-### based on the [laravel5](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/laravel5) pluging
+based on the [laravel5](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/laravel5) pluging
 This plugin adds some aliases for common [Laravel](https://laravel.com/docs) commands.
 
-To use it, add `laravelX` to the plugins array in your zshrc file:
+To use it, follow the instruction below:
+- clone this repo into your `.oh-my-zsh/custom/plugins` directory
+```bash
+cd ~/.oh-my-zsh/custom/plugins
+git clone git@github.com:rsthegeek/oh-my-zsh-laravelx.git laravelX
+```
+- add `laravelX` to the plugins array in your `~/.zshrc` file
 
 ```zsh
 plugins=(... laravelX)
