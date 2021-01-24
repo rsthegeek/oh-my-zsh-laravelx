@@ -1,6 +1,7 @@
 # Alias
 alias a='php artisan'
 alias a:cc='php artisan cache:clear'
+alias a:rc='php artisan route:clear'
 alias a:rl='php artisan route:list'
 alias a:vp='php artisan vendor:publish'
 
