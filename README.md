@@ -1,4 +1,4 @@
-# Laravel X plugin for Oh My (fuc\*ing) Zsh
+# LaravelX plugin for Oh My (fuc\*ing) Zsh
 based on the [laravel5](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/laravel5) pluging
 This plugin adds some aliases for common [Laravel](https://laravel.com/docs) commands.
 
