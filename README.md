@@ -23,3 +23,16 @@ plugins=(... laravelX)
 | a:rc      | `php artisan route:clear`    | Clear all cached routes                            |
 | a:rl      | `php artisan route:list`     | List all registered routes                         |
 | a:vp      | `php artisan vendor:publish` | Publish any publishable assets from vendor package |
+
+## Contributing
+
+Pull requests are welcome.
+
+## License
+
+Please see the [LICENSE](LICENSE.md) included in this repository for a full copy of the MIT license,
+which this project is licensed under.
+
+## Credits
+
+- [MohammarR. Fekri (RStheGeek)](https://github.com/rsthegeek)
